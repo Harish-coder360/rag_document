@@ -1,4 +1,4 @@
-# Directory: llm_rag/
+# Directory: rag_document/
 
 # File: README.md
 
@@ -20,8 +20,8 @@ A **production-grade, modular Retrieval-Augmented Generation (RAG)** system to s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Harish-coder360/llm-rag-pipeline
-   cd llm-rag-pipeline
+   git clone https://github.com/Harish-coder360/rag_document
+   cd rag_document
    ```
 
 2. **Install dependencies:**
