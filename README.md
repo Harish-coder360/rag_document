@@ -1,8 +1,7 @@
 # Directory: llm_rag/
 
-# -----------------------------
 # File: README.md
-# -----------------------------
+
 # LLM RAG Pipeline 🚀
 
 A **production-grade, modular Retrieval-Augmented Generation (RAG)** system to supercharge Large Language Models (LLMs) with your private documents.
