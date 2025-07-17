@@ -1,0 +1,12 @@
+openai
+langchain
+chromadb
+python-dotenv
+tqdm
+rich
+PyYAML
+sentence-transformers
+transformers
+torch
+faiss-cpu
+gradio
